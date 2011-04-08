@@ -4,7 +4,7 @@ Hey there!
 
 The team at [Splatspace][splatspace] has been excited about this challenge since we heard of it. Even before we knew whether or not we had been picked for the challenge, people were signing on to form our Hackerspace Challenge team and throwing out ideas for what we could do.
 
-Now that we've got a team working and some ideas going strong, we thought it would be good to say hello and introduce ourselves.
+We've had five team meetings over the past month or so and we think it's time to introduce ourselves with a blog post. We'll also take a moment to introduce the projects we're working on for the challenge, along with a very brief explanation for each.
 
 ## Splatspace
 
