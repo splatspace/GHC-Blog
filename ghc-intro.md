@@ -14,19 +14,20 @@ The thing that has already risen to dominate the character of our space is educa
 
 ## Our Team
 
-Our team is composed of electronics folks, microcontroller folks, a fabricator or two, some programmers, and some media people. They are:
+Our team is composed of electronics folks, microcontroller folks, a fabricator or two, some programmers, some media people, an elementary school teacher, and a tutor. We are:
 
-* Justis Peters: Project management, Arduino programming 
-* Alan Dipert: Programmer, CAD design
-* JC Sackett: Media, Programmer
-* Skippy Hope: Programmer
-* Jeff Crews: Fabrication, CAD design
-* Peter Reintjes: Electronics, Hardware
-* Mike Broome: Programmer, Electronics
-* Dino Segovis: Fabrication, Electronics, CAD design
-* Darren Boss: Programmer, Media
-* Ashley Dipert: Programmer
-* Tom Billman: 
+* Justis Peters: project management, arduino programming 
+* Alan Dipert: programmer, CAD design
+* JC Sackett: media, programmer, blogger
+* Skippy Hope: programmer, arduino
+* Jeff Crews: fabrication, CAD design
+* Peter Reintjes: electronics, hardware
+* Mike Broome: programmer, electronics
+* Dino Segovis: fabrication, electronics, CAD design
+* Darren Boss: programmer, media
+* Ashley Dipert: programmer, content, educator's insight
+* Tom Billman: electronics, microcontrollers, PCB Design
+* Kristen Bedell: educator's insight
 
 We'll have more on our team in a later post!
 
