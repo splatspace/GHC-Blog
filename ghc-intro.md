@@ -21,7 +21,7 @@ Our team is composed of electronics folks, microcontroller folks, a fabricator o
 * JC Sackett: Media, Programmer
 * Skippy Hope: Programmer
 * Jeff Crews: Fabrication, CAD design
-* Peter Reintjes: Electronics, hardware
+* Peter Reintjes: Electronics, Hardware
 * Mike Broome: Programmer, Electronics
 * Dino Segovis: Fabrication, Electronics, CAD design
 * Darren Boss: Programmer, Media
@@ -40,9 +40,9 @@ Here's what we're looking at so far.
 
 ## Music player
 
-Music education often gets overlooked, but it's still very important. But it can be difficult to introduce musical concepts to children without teaching them a lot of motor skills first--anyone who learned to play the piano as a child can no doubt remember learning to hit a chord at high speed being as difficult as just reading the music.
+Music education often gets overlooked, but it's still very important. It can be difficult to introduce musical concepts to children without teaching them a lot of motor skills first--anyone who learned to play the piano as a child can no doubt remember learning to hit a chord at high speed being as difficult as just reading the music.
 
-The music player, protoyped here by Peter Reintjes, gets around this difficulty by making the creation of music as easy placing magnets on a refridgerator.
+The music player, protoyped here by Peter Reintjes, gets around this difficulty by making the creation of music as easy placing magnets on a refrigerator.
 
 <!-- Insert photo of music player -->
 
@@ -52,7 +52,7 @@ This idea seems to be a popular one with hackerspaces! Similar to other teams, w
 
 ## Gravity ball
 
-Have you ever tried to explain physics to elementary school students? It's not easy. That whole notion of force, acceleration, and the rest just isn't that intuitive. The gravity ball (not necessarily the final name) uses an accelerometer and LEDs t help illustrate these concepts in a hands on way for young students, letting them see the force and acceleration as they throw a ball around or drop it and bounce it off of things.
+Have you ever tried to explain physics to elementary school students? It's not easy. That whole notion of force, acceleration, and the rest just isn't that intuitive. The gravity ball (not necessarily the final name) uses an accelerometer and LEDs to help illustrate these concepts in a hands-on way for young students, letting them see the force and acceleration as they throw a ball around or drop it and bounce it off of things.
 
 # That's all for now
 
