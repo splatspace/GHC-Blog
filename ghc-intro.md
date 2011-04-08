@@ -50,6 +50,7 @@ Our music player removes these obstacles by making the creation of music as easy
 This idea seems to be a popular one with hackerspaces! Similar to other teams, we're designing a set of blocks that engage the participant in educational exercises. They are a tactile interface, reminiscent of the alphabet blocks that many kids play with, and they become way more exciting when you throw in a microcontroller, a few sensors, and feedback components. Our current design has only numeric display and the proposed exercises are about numbers, counting, sets, fractions, and arithmetic.
 
 Our design priorities for this project are:
+
 * Stay focused on numbers, keeping the exercises simple to internationalize.
 * Prototype fast; optimize cost later.
 * Quickly design an API, so that a content team can start working in parallel.
