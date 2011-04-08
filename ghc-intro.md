@@ -43,11 +43,13 @@ Here's what we're looking at so far.
 
 ## Music player
 
-Music education often gets overlooked, but it's still very important. It can be difficult to introduce musical concepts to children without teaching them a lot of motor skills first--anyone who learned to play the piano as a child can no doubt remember learning to hit a chord at high speed being as difficult as just reading the music.
+Music education often gets overlooked, but it's still very important. It can be difficult to introduce musical concepts to children without teaching them a lot of motor skills first. You have to learn to hold your fingers in unfamiliar positions and then you have to get them to coordinate rhythmically. Then, you have to learn to read music. Those are a lot of obstacles to jump over for a child and those obstacles often stand in the way of them discovering what joy and fun music can be.
 
 The music player, protoyped here by Peter Reintjes, gets around this difficulty by making the creation of music as easy placing magnets on a refrigerator.
 
 <!-- Insert photo of music player -->
+
+The layout of the notes is much like a piano roll or the "tracker" interface used on many popular audio programs for personal computers. In our version, you get a tactile interface for composing music and a novel means of interactive playback.
 
 ## Numeric blocks
 
