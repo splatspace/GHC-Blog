@@ -33,8 +33,6 @@ We'll have more on our team in a later post!
 
 # Projects
 
-**Let a thousand flowers bloom...**
-
 Our early brainstorming revealed a number of small, elegant ideas. We had some early inertia around one project, which looked like critical mass, but debate continued around the merits of a couple other projects. In the spirit of "do-ocracy", we decided to just do all three projects until the relative merits become clearer. They're all great ideas and each one has a unique mixture of challenges and opportunities.
 
 Consider it a small intraspace challenge--the winner in a week or two will become the project we all pursue wholeheartedly for the remainder of the challenge. And we'll all be happy with it, because we'll know it's one that's already survived a challenge.
@@ -45,11 +43,7 @@ Here's what we're looking at so far.
 
 Music education often gets overlooked, but it's still very important. It can be difficult to introduce musical concepts to children without teaching them a lot of motor skills first. You have to learn to hold your fingers in unfamiliar positions and then you have to get them to coordinate rhythmically. Then, you have to learn to read music. Those are a lot of obstacles to jump over for a child and those obstacles often stand in the way of them discovering what joy and fun music can be.
 
-The music player, protoyped here by Peter Reintjes, gets around this difficulty by making the creation of music as easy placing magnets on a refrigerator.
-
-<!-- Insert photo of music player -->
-
-The layout of the notes is much like a piano roll or the "tracker" interface used on many popular audio programs for personal computers. In our version, you get a tactile interface for composing music and a novel means of interactive playback.
+Our music player removes these obstacles by making the creation of music as easy placing magnets on a refrigerator. The layout of the notes is much like a piano roll or the "tracker" interface used on many popular audio programs for personal computers. For playback, you just roll the player across the composition surface.
 
 ## Numeric blocks
 
