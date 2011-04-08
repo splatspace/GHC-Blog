@@ -53,7 +53,15 @@ The layout of the notes is much like a piano roll or the "tracker" interface use
 
 ## Numeric blocks
 
-This idea seems to be a popular one with hackerspaces! Similar to other teams, we're looking at a set of blocks that dock with each other and a master control block. The control block can set them up to do a variety of things like cluster into groups to teach fractions and sets, or aid in the teaching of arithmetic.
+This idea seems to be a popular one with hackerspaces! Similar to other teams, we're designing a set of blocks that engage the participant in educational exercises. They are a tactile interface, reminiscent of the alphabet blocks that many kids play with, and they become way more exciting when you throw in a microcontroller, a few sensors, and feedback components. Our current design has only numeric display and the proposed exercises are about numbers, counting, sets, fractions, and arithmetic.
+
+Our design priorities for this project are:
+* Stay focused on numbers, keeping the exercises simple to internationalize.
+* Prototype fast; optimize cost later.
+* Quickly design an API, so that a content team can start working in parallel.
+* Make it easy to program in the field, with hopes of starting a community of content producers.
+* Keep the design flexible, so that lower cost parts can later be substituted.
+* Concentrate the expensive parts in a "master station" and minimize the cost per block, allowing for affordable exercises that involve many blocks.
 
 ## Gravity ball
 
