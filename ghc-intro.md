@@ -35,7 +35,9 @@ We'll have more on our team in a later post!
 
 **Let a thousand flowers bloom...**
 
-Our early brainstorming revealed a number of small, elegant ideas, and we realized early on that rather than talking the topic of what to settle on to death, we would do much better to let a number of projects get going. Consider it a small intraspace challenge--the winner in a week or two will become the project we all pursue wholeheartedly for the remainder of the challenge. And we'll all be happy with it, because we'll know it's one that's already survived a challenge.
+Our early brainstorming revealed a number of small, elegant ideas. We had some early inertia around one project, which looked like critical mass, but debate continued around the merits of a couple other projects. In the spirit of "do-ocracy", we decided to just do all three projects until the relative merits become clearer. They're all great ideas and each one has a unique mixture of challenges and opportunities.
+
+Consider it a small intraspace challenge--the winner in a week or two will become the project we all pursue wholeheartedly for the remainder of the challenge. And we'll all be happy with it, because we'll know it's one that's already survived a challenge.
 
 Here's what we're looking at so far.
 
