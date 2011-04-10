@@ -14,3 +14,11 @@ Like any group of creative people, we started out by just tossing out a ton of i
 Helping us sort through all of this was Kristen Bedell, a local teacher and a valuable source of insight for our hackerspace. In addition, we brought in the opinions of any educators in our extended social networks. With that input, we narrowed it down to the three we're currently working on. But why haven't we picked just one?
 
 # How do You Prove What's Best?
+
+Last Tuesday, we got together to decide, among other things, which project we were definitely going to throw our resources behind. It rapidly became evident that we had the resources to pursue all three of our ideas for a time, and that none of us were ready to throw one of the ideas away until something else had really been proven better.
+
+So why make a choice now?
+
+We decided to give it at least a week, until this Tuesday. At this Tuesday (which is also Splatspace's usual open meeting time) we're going to compare some notes and implementation ideas for the three projects (or, if you like "semi-finalists") and see which one feels the strongest.
+
+Stay posted for updates!
