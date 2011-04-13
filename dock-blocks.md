@@ -21,8 +21,9 @@ The block is a hollowed out wooden block; Jeff bought several for a few dollars 
 
 Inside them, we're looking at using an [MSP430][msp430] to control the logic, all communicating via the signal line.
 
-As described, there will also be a central "master" block. Crews is advocating a rocketship, and I don't think anyone wants to dissapoint him.
+As described, there will also be a central "master" block. Crews is advocating a rocketship, and I don't think anyone wants to disappoint him.
 
+Check back soon, for more info on the dock blocks, and the next two parts in this series describing our other projects!
 
 [intro]: http://www.element14.com/community/groups/splatspace/blog/2011/04/08/introductions 
 [msp430]: http://processors.wiki.ti.com/index.php/MSP430_LaunchPad_(MSP-EXP430G2)?DCMP=launchpad&HQS=Other+OT+launchpadwiki
