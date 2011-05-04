@@ -1,0 +1,5 @@
+The piano player is a handheld musical microcontroller. At it's simplest, it's a small box you drag across an arrangment of black magnets on a board, generating music.
+
+We originally envisioned this as a tool to introduce musical composition and music playing at an earlier age, in a cheap and easy manner. From talk with local teachers we've also found that it can be used in a variety of other lesson plans involving pattern matching, spatial reasoning, and linguistic skills like alliteration and rhythm. 
+
+The piano player can be built for about $25. The interface to create music is literally a metal board and magnets--the sort of thing you can easily hand out to kids without worrying about any damage as you might with traditional instruments. A teacher only needs a few of the actual players to scale to a class of 30 or more, and can easily put a cheap board in the hands every student.
